@@ -1,0 +1,9 @@
+yt-dlp 
+openai-whisper 
+transformers 
+torch 
+keybert 
+moviepy 
+sumy 
+scikit-learn 
+matplotlib
